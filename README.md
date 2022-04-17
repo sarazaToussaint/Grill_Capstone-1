@@ -1,62 +1,51 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## Capastone1 Project
 
-> Description the project.
+This project is to help demostrating or put into practice what we have learned at Microverse for the time we spent at Microverse program until now. Please have a look at my Live site and give me feedback Live Demo. 🙂
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSSfunction
+- Javascript
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+## Live Demo
+[Live Demo Link]()
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+git clone (https://github.com/sarazaToussaint/Grill_Capstone-1.git)
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+The basic requirements for building the executable are:
 
-### Setup
+- A working browser application (Google chrome, Mozilla Fire fox, Microsoft edge ...)
+- VSCode or any other equivalent code editor
+- Node Package Manager (For running, debuging, or installing dependancies to be used)
 
 ### Install
-
-### Usage
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
 ### Run tests
+- npx eslint.
+- npx webhint .
+- npx stylelint "**/*.{css,scss}"
 
 ### Deployment
+- This app is deployed using GitHub pages (https://pages.github.com/)
 
+## Author
 
+👤 **Toussaint Saraza**
 
-## Authors
+- GitHub: [@githubhandle](https://github.com/sarazaToussaint)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +53,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- 
+- 
+- 
+
 
 ## 📝 License
 
