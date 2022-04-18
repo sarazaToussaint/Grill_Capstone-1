@@ -120,11 +120,11 @@ li {
 
 .sign h3,
 h5 {
-  color: #000;
+  color: #fff;
 }
 
 .main {
-  background-image: url(./components/grillade.jpg);
+  background-image: url(./components/food2.jpg);
   width: auto;
   background-repeat: no-repeat;
   background-size: cover;
