@@ -12,7 +12,7 @@ This project is to help demostrating or put into practice what we have learned a
 - Javascript
 
 ## Live Demo
-[Live Demo Link]()
+[Live Demo Link]('https://sarazatoussaint.github.io/Grill_Capstone-1/')
 
 
 ## Getting Started
