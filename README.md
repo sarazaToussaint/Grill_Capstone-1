@@ -12,7 +12,7 @@ This project is to help demostrating or put into practice what we have learned a
 - Javascript
 
 ## Live Demo
-[Live Demo Link]('https://sarazatoussaint.github.io/Grill_Capstone-1/')
+[Live Demo Link](https://sarazatoussaint.github.io/Grill_Capstone-1/)
 
 
 ## Getting Started
@@ -36,8 +36,8 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 - npx webhint .
 - npx stylelint "**/*.{css,scss}"
 
-### Deployment
-- This app is deployed using GitHub pages (https://pages.github.com/)
+### Documentation
+[Loom Video Link] (https://www.loom.com/share/4d2140998d4e4804936ec8408637fe35)
 
 ## Author
 
@@ -50,13 +50,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- 
-- 
-- 
-
 
 ## 📝 License
 
