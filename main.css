@@ -197,7 +197,7 @@ h5 {
 }
 
 .cards {
-  width: 250px;
+  width: 230px;
   height: auto;
   background-color: rgba(255, 255, 255, 0.192);
   padding-bottom: 30px;
@@ -224,7 +224,7 @@ h5 {
 }
 
 .cards:hover {
-  border: 1px solid #fff;
+  border: 3px solid #fff;
   background-color: #000;
 }
 
