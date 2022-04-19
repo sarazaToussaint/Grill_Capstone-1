@@ -211,6 +211,20 @@ h5 {
   font-weight: bold;
 }
 
+.dish-link2 a {
+  display: none;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ec5242;
+  width: 84%;
+  margin: auto;
+  padding: 34px 0;
+  font-size: 22px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
 .title h4 {
   font-size: 30px;
   font-family: 'Lato', sans-serif;
@@ -346,6 +360,10 @@ h5 {
 
   .dish-link a {
     display: none;
+  }
+
+  .dish-link2 a {
+    display: block;
   }
 
   .container h2 a img {
