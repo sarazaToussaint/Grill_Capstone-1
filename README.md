@@ -47,6 +47,10 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/toussaint-saraza-841b111ba/)
 
 
+## Acknowledgements
+
+- I would like to express my special thank of gratitude to the author of the   original design @Cindy Shin who gave me the opportunity to make this project, by being inspire on his original design and helped me in doing lot of research and i came to know about meny new things so i'm very thankful to him.
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
