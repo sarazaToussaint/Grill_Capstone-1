@@ -194,6 +194,7 @@ h5 {
   justify-content: center;
   padding: 20px;
   gap: 0 5px;
+  margin-bottom: 30px;
 }
 
 .cards {
@@ -226,6 +227,12 @@ h5 {
 .cards:hover {
   border: 3px solid #fff;
   background-color: #000;
+}
+
+.dish-link a {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
 }
 
 .speaker-container {
@@ -335,6 +342,10 @@ h5 {
     display: flex;
     align-content: center;
     gap: 20px;
+  }
+
+  .dish-link a {
+    display: none;
   }
 
   .container h2 a img {
