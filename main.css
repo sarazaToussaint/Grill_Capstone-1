@@ -304,6 +304,10 @@ h5 {
 }
 
 @media all and (max-width: 768px) {
+  .top-links-container {
+    display: none;
+  }
+
   .campain a,
   .disable a,
   .red a,
