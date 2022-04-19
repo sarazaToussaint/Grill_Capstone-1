@@ -36,9 +36,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 - npx webhint .
 - npx stylelint "**/*.{css,scss}"
 
-### Documentation
-[Loom Video Link] (https://www.loom.com/share/a551c908b994451b94d2029dd23927fd)
-
 ## Author
 
 👤 **Toussaint Saraza**
