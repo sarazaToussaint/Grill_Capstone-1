@@ -7,6 +7,35 @@
   font-family: 'Lato', sans-serif;
 }
 
+.top-links-container {
+  flex-direction: row;
+  width: 100%;
+  height: 40px;
+  background-color: #272a31;
+}
+
+.top-links {
+  align-items: center;
+  justify-content: end;
+  font-family: 'Lato', sans-serif;
+  padding: 10px 80px 0 0;
+}
+
+li a {
+  text-decoration: none;
+  color: #272a31;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.top-links > a {
+  float: right;
+  color: #d3d3d3;
+  text-decoration: none;
+  margin: auto 5px;
+}
+
 header {
   background-color: #fff;
   font-family: 'Lato', sans-serif;
@@ -29,14 +58,6 @@ nav {
   align-items: center;
   margin: 0 20px;
   padding: 0 1rem;
-}
-
-li a {
-  text-decoration: none;
-  color: #272a31;
-  font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
 }
 
 .campain a {
