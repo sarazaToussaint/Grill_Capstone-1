@@ -8,7 +8,7 @@ This project is to help demostrating or put into practice what we have learned a
 ## Built With
 
 - HTML
-- CSSfunction
+- CSS
 - Javascript
 
 ## Live Demo
