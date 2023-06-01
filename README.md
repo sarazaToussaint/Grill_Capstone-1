@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Capastone1 Project
+## GRILL RESTAURANT
 
 This project is to help demostrating or put into practice what we have learned at Microverse for the time we spent at Microverse program until now. Please have a look at my Live site and give me feedback Live Demo. 🙂
 
